@@ -171,12 +171,13 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .season-montage {
   margin-top: 30px;
-  text-align: center;
 }
 
 .season-montage img {
+  display: block;
   width: 100%;
   max-width: 560px;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
